@@ -20,6 +20,20 @@ File: Layout CSS
 .row5, .row5 a{}
 
 
+
+
+	#footer {
+		text-align: center;
+		padding: 50px 0 30px ;
+		color: #000000;
+		
+	}
+
+ #links{
+	color: #FFFFFF;
+	text-shadow: #000000;
+	text-decoration: none;
+ }
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
 #header{padding:50px 0;}
